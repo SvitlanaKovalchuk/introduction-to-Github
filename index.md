@@ -9,3 +9,8 @@
 - [ ] 1
 - [x] 2
 - [ ] 3
+---
+---
+title: "Welcome to my blog"
+date: 2022-10-07
+---
